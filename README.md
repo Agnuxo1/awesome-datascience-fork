@@ -30,6 +30,10 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
 <br>
 
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> This fork preserves the <a href="https://github.com/academic/awesome-datascience">upstream project</a>’s learning roadmap, data-science toolbox, training resources and dataset references. Grouping concepts with practical libraries helps learners reuse established methods and choose a suitable starting point without repeatedly reconstructing a study plan. Its practical value is accessible learning and technical discovery, with experimental performance belonging to the selected methods and datasets.</sub>
+<!-- impact-note:end -->
+
 ## Sponsors
 
 | Sponsor | Pitch |
